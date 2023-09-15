@@ -1,4 +1,4 @@
-# DesignPaterns Repository 📘
+#DesignPaterns📘
 
 ## About 📖
 
