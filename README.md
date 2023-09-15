@@ -26,7 +26,7 @@ git clone https://github.com/Ardemium/DesignPaterns.git
 
 ## Contributions 🌟
 
-Contributions breathe life into open-source projects! If you've got insights, optimizations, or real-world examples that align with our "School" theme, please:
+Contributions breathe life into open-source projects! If you've got insights:
 
 1. Fork this repository.
 2. Make your changes.
