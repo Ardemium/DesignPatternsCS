@@ -22,7 +22,7 @@ git clone https://github.com/Ardemium/DesignPaterns.git
 ```
 
 2. Navigate to a design pattern of your choice and explore its contents.
-3. Each pattern's `Implementation` folder will contain runnable C# examples. Ensure you have dotnet to test and run C# programs.
+3. Each pattern's folder will contain runnable C# `srs` & `tests` examples. Ensure you have dotnet to test and run C# programs.
 
 ## Contributions 🌟
 
