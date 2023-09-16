@@ -4,6 +4,19 @@
 
 Welcome to the **DesignPaterns** repository! Here, we dive deep into the world of design patterns, focusing specifically on their implementation in C#.
 
+## What are Design Patterns?
+
+Design Patterns are typical solutions to common problems in software design. Each pattern is a blueprint that you can customize to solve a particular design problem in your code. They represent best practices and are categorized into creational, structural, and behavioral patterns.
+
+## Why use Design Patterns?
+
+Using design patterns in software development has several advantages:
+
+1. **Reusability**: Patterns provide tried and tested solutions, which can be reused to solve recurring design problems.
+2. **Understandability**: Patterns provide a common vocabulary for developers, making it easier to communicate complex designs.
+3. **Maintainability**: Patterns promote modularity and flexibility in the code, making it easier to refactor or scale.
+4. **Efficiency**: Leveraging patterns can reduce development time as they provide templates for solving common problems.
+
 ## Repository Structure 📂
 
 Every design pattern covered here follows a consistent folder structure for ease of navigation:
