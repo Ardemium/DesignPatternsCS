@@ -2,6 +2,10 @@
 
 The Factory Method Design Pattern is a creational pattern that provides an interface for creating instances of a class, with its subclasses deciding which class to instantiate. This pattern ensures that a class delegates the responsibility of instantiating its objects to its subclasses.
 
+<p align="center">
+  <img src="FactoryMethod.png" alt="Factory Method Design Pattern PlantUML">
+</p>
+
 ### Analogy:
 
 Imagine a restaurant where the main dish is always prepared using the same method, but the ingredients vary depending on the cuisine (e.g., Italian, Chinese, or Mexican). Instead of the restaurant preparing all types of dishes, it delegates the responsibility to specialized chefs. Similarly, the Factory Method delegates the instantiation responsibility to subclasses.
