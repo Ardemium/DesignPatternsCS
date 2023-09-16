@@ -2,6 +2,10 @@
 
 The Singleton Design Pattern is a design principle that ensures a specific class has only a single instance throughout your application and offers a way to access this instance from anywhere.
 
+<p align="center">
+  <img src="Singleton.png" alt="Singleton Design Pattern PlantUML">
+</p>
+
 ### Analogy:
 
 Imagine a room with only one light bulb. No matter how many bulbs you try to install, there's only one that illuminates the room. Similarly, Singleton ensures only one instance of a specific class in your application.
