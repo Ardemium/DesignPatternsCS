@@ -31,7 +31,7 @@ Every design pattern covered here follows a consistent folder structure for ease
 1. **Clone the Repository**: 
 
 ```
-git clone https://github.com/Ardemium/DesignPaterns.git
+git clone https://github.com/Ardemium/DesignPatternsCS.git
 ```
 
 2. Navigate to a design pattern of your choice and explore its contents.
